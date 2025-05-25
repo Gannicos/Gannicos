@@ -1,7 +1,6 @@
-<!-- Banner — substitua pela sua própria imagem 828×315 -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Gannicos/Gannicos/main/banner.png" alt="Banner Victor Hugo" width="100%">
-</p>
+<!--<p align="center">
+  <img src="https://raw.githubusercontent.com/Gannicos/Gannicos/main/House in the beach (2).png" alt="Banner Victor Hugo" width="100%">
+</p>-->
 
 <h1 align="center">Olá, eu sou o Victor Hugo 👋</h1>
 
